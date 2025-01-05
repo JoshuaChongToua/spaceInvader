@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="openGl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/openGl_jar</output-path>
+    <root id="archive" name="openGl.jar">
+      <element id="module-output" name="openGl" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jogamp-all-platforms/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jogamp-all-platforms/jar/gluegen-rt.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
